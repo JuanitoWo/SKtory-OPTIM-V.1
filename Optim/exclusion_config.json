@@ -1,0 +1,1 @@
+{"Core": {"enabled": true, "processes": {}}, "Utils": {"enabled": true, "processes": {"SearchIndexer.exe": true, "SearchProtocolHost.exe": true, "SearchUI.exe": true}}, "MS Services": {"enabled": true, "processes": {"OneDrive.exe": true}}, "Misc": {"enabled": true, "processes": {"AdobeARM.exe": true, "AdobeARMhelper.exe": true}}, "Browsers": {"enabled": true, "processes": {}}}
